@@ -1,0 +1,23 @@
+/*
+Theme Name: Wordpress Tutorial
+Theme URL: https://yusufbiberoglu.com/
+Author: Yusuf BİBEROĞLU
+Author URL: https://yusufbiberoglu.com/
+Description: Yusuf's Wordpress Theme
+Version: 1.0.0
+Text Domain: yusuf_biberoglu
+
+
+
+*/
+ul{
+	list-style: none;
+}
+
+#header_area{
+	padding: 15px 0;
+}
+
+.logo_area{
+
+}
